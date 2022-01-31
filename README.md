@@ -14,7 +14,8 @@ The results were as follows:
 
 ![pyber_summary table](https://user-images.githubusercontent.com/96032051/151742025-f32e2da9-0cb4-4243-9f47-9482a27071f5.png)
 
-From the pyber_summary df image we can determine that Urban cities generate the more number of total rides and highest amount of total fares. Suburban is the next highest in those categories and in Rural cities are the least . Urban cities also have higher drivers count followed by the Suburban cities then followed by Rural cities.But, The average fare per ride and fare per driver are much lower in urban cities than the other 2 categories.
+#### The pyber_summary df image:
+we can determine that Urban cities generate the more number of total rides and highest amount of total fares. Suburban is the next highest in those categories and in Rural cities are the least . Urban cities also have higher drivers count followed by the Suburban cities then followed by Rural cities.But, The average fare per ride and fare per driver are much lower in urban cities than the other 2 categories.
 
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/96032051/151742040-96aecfc4-5756-42ad-9f14-a4bd70df3d53.png)
@@ -23,8 +24,8 @@ From the pyber_summary df image we can determine that Urban cities generate the 
 
 
 
-
-The multiple-line chart titled "Total Fare by City Type" showing total fares in rural, suburban, and urban cities between January - April 2019. The urban cities fares were reported highest from around $1,600 to $2,300 during January to May 2019 period. In contrast, the rural cities fares were around $300 to $500 and suruban cities fall in between urban and rural cities with around $700 to $1,300 during this time. We can also notice in the line chart that the similar peak times in total fares occurred sometime at the end of February 2019 for each city type. 
+#### The multiple-line chart:
+The line chart titled "Total Fare by City Type" showing total fares in rural, suburban, and urban cities between January - April 2019. The urban cities fares were reported highest from around $1,600 to $2,300 during January to May 2019 period. In contrast, the rural cities fares were around $300 to $500 and suruban cities fall in between urban and rural cities with around $700 to $1,300 during this time. We can also notice in the line chart that the similar peak times in total fares occurred sometime at the end of February 2019 for each city type. 
 
 ## Summary:
 
